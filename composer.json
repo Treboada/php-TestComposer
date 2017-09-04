@@ -1,6 +1,6 @@
 {
     "name": "treboada/test-composer",
-    "description": "Just a test...",
+    "description": "Just a test to play with packagist and composer...",
     "homepage": "https://github.com/Treboada/php-TestComposer",
     "license": "GPL-3.0",
     "authors": [
@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "php": "^7.0",
         "psr/log": "^1.0"
     },
     "require-dev": {
