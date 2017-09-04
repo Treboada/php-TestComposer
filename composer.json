@@ -1,5 +1,6 @@
 {
     "name": "treboada/test-composer",
+    "version": "0.0.0",
     "description": "Just a test to play with packagist and composer...",
     "homepage": "https://github.com/Treboada/php-TestComposer",
     "license": "GPL-3.0",
