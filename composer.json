@@ -1,0 +1,18 @@
+{
+    "name": "treboada/test-composer",
+    "description": "Just a test...",
+    "homepage": "https://github.com/Treboada/php-TestComposer",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Rafa Couto",
+            "email": "caligari@treboada.net"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    }
+}
